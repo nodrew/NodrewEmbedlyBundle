@@ -91,7 +91,7 @@ nodrew_embedly:
 
 ## Usage
 
-There are 3 client's that can be used. Each corrisponds to the Embedly endpoing of the same name:
+There are 3 client's that can be used. Each corresponds to the Embedly endpoing of the same name:
 
 - oEmbed:    nodrew_embedly.oembed.client
 - Preview:   nodrew_embedly.preview.client
